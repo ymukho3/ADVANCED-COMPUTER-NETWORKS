@@ -1,1 +1,2 @@
 # ADVANCED-COMPUTER-NETWORKS
+In this course, I learned about key networking concepts and technologies such as IPv6, iBGP, eBGP, and Software-Defined Networking (SDN). I gained a deep understanding of the link layer and network layer, along with their roles in network communication. The course also covered various routing protocols, including iBGP and eBGP, helping me understand how networks exchange routing information efficiently. These topics provided me with a solid foundation in modern networking and routing techniques.
